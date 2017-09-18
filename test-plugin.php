@@ -22,3 +22,7 @@ $MyUpdateChecker = new PluginUpdateChecker_2_0 (
 function not_used_at_all(){
     echo 'Hello world';
 }
+
+function useless_function(){
+    echo 'Hello world';
+}
