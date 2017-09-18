@@ -2,7 +2,7 @@
 /*
 Plugin Name: Test Plugin
 Description: An example plugin that runs the update API.
-Version: 1.0.4
+Version: 1.0.5
 Author: Þórarinn
 Author URI: http://offorsi.is
 */
@@ -10,7 +10,7 @@ Author URI: http://offorsi.is
 
 require 'plugin_update_check.php';
 $MyUpdateChecker = new PluginUpdateChecker_2_0 (
-    'https://kernl.us/api/v1/updates/59bfcc8c9e7ec8707b8e5df2/',
+    'https://kernl.us/api/v1/updates/59bfd38e69f5da2ec903cb99/',
     __FILE__,
     'test-plugin',
     1
@@ -21,7 +21,7 @@ $MyUpdateChecker = new PluginUpdateChecker_2_0 (
 
 
 function not_used_at_all(){
-    echo 'Hello world';
+    echo 'Hello world11111';
 }
 
 function useless_function(){
