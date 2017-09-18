@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Test Plugin Update
+Plugin Name: Test Plugin
 Description: An example plugin that runs the update API.
 Version: 1.0.1
 Author: Þórarinn
