@@ -16,3 +16,9 @@ $MyUpdateChecker = new PluginUpdateChecker_2_0 (
     1
 );
 // $MyUpdateChecker->purchaseCode = "somePurchaseCode";  <---- Optional!
+
+
+
+function not_used_at_all(){
+    echo 'Hello world';
+}
