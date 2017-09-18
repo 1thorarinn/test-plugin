@@ -10,12 +10,13 @@ Author URI: http://offorsi.is
 
 require 'plugin_update_check.php';
 $MyUpdateChecker = new PluginUpdateChecker_2_0 (
-    'https://kernl.us/api/v1/updates/59bfd38e69f5da2ec903cb99/',
+    'https://kernl.us/api/v1/updates/59bfeec569f5da2ec903cba3/',
     __FILE__,
     'test-plugin',
     1
 );
 // $MyUpdateChecker->purchaseCode = "somePurchaseCode";  <---- Optional!
+
 
 
 
