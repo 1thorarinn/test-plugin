@@ -2,7 +2,7 @@
 /*
 Plugin Name: Test Plugin
 Description: An example plugin that runs the update API.
-Version: 1.0.7
+Version: 1.0.8
 Author: Þórarinn
 Author URI: http://offorsi.is
 */
@@ -28,4 +28,8 @@ function not_used_at_all(){
 function useless_function(){
     echo "Yess";
     echo 'Hello world';
+}
+
+function useless_function_times2(){
+    return true;
 }
