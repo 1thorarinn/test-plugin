@@ -2,7 +2,7 @@
 /*
 Plugin Name: Test Plugin
 Description: An example plugin that runs the update API.
-Version: 1.0.1
+Version: 1.0.3
 Author: Þórarinn
 Author URI: http://offorsi.is
 */
