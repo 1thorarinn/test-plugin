@@ -22,12 +22,12 @@ $MyUpdateChecker = new PluginUpdateChecker_2_0 (
 
 
 function not_used_at_all(){
-    echo 'Hello world11111';
+    echo 'Hello world';
 }
 
 function useless_function(){
     echo "Yess";
-    echo 'Hello world';
+    echo 'Hello world2';
 }
 
 function useless_function_times2(){
