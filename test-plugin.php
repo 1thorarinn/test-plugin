@@ -27,6 +27,7 @@ function not_used_at_all(){
 
 function useless_function(){
     echo "Yess";
+     echo "Yess!!";
     echo 'Hello world!!!!!';
 }
 
