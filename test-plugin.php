@@ -3,7 +3,7 @@
 Plugin Name: Test Plugin
 Description: An example plugin that runs the update API.
 Version: 1.0.9
-Author: Þórarinn I Tómasson
+Author: Þórarinn I. Tómasson
 Author URI: http://offorsi.is
 */
 
@@ -22,7 +22,7 @@ $MyUpdateChecker = new PluginUpdateChecker_2_0 (
 
 
 function not_used_at_all(){
-    echo 'Hello world';
+    echo 'Hello world!!!!!!';
 }
 
 function useless_function(){
