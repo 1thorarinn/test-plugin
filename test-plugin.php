@@ -3,7 +3,7 @@
 Plugin Name: Test Plugin
 Description: An example plugin that runs the update API.
 Version: 1.0.9
-Author: Þórarinn I.
+Author: Þórarinn I. Tómasson
 Author URI: http://offorsi.is
 */
 
@@ -30,6 +30,6 @@ function useless_function(){
     echo 'Hello world2';
 }
 
-function useless_function_times2(){
-    return false;
+function useless_function_times2($a){
+    return (empty($a)? true : false);
 }
